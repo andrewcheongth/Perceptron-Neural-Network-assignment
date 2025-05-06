@@ -1,0 +1,1 @@
+Python implementation of Single-Layer Perceptron (SLP) and Multi-Layer Perceptron (MLP) networks to perform MNIST Fashion dataset classifications, while investigating the effects of different activation functions and visualising weight activations of the network.
